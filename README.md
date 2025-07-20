@@ -34,4 +34,18 @@ Users can:
 ---
 
 ## 📁 Folder Structure
+mern-notes-app/
+├── backend/
+│ ├── models/
+│ ├── routes/
+│ ├── controllers/
+│ └── server.js
+├── frontend/
+│ ├── src/
+│ │ ├── components/
+│ │ └── App.js
+│ └── public/
+├── .gitignore
+├── README.md
+└── package.json
 
